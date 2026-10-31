@@ -1,5 +1,5 @@
 <img width="736" height="414" alt="da6c6dfeed2b3cfea14f5abca6b15e57" src="https://github.com/user-attachments/assets/77bcb045-c983-43f4-98fc-3fb8b1ea00d9" />
-<img width="450" height="270" alt="7c10922329807a23dab043d777e940fe" src="https://github.com/user-attachments/assets/83ab0c3d-385b-439a-a5af-14bb9da51572" />
+<img width="700" height="350" alt="7c10922329807a23dab043d777e940fe" src="https://github.com/user-attachments/assets/83ab0c3d-385b-439a-a5af-14bb9da51572" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
