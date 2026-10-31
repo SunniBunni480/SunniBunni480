@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<!--
-**SunniBunni480/SunniBunni480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="736" height="414" alt="da6c6dfeed2b3cfea14f5abca6b15e57" src="https://github.com/user-attachments/assets/77bcb045-c983-43f4-98fc-3fb8b1ea00d9" />
+
+
 
 Here are some ideas to get you started:
 
